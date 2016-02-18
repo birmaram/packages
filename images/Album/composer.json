@@ -1,0 +1,17 @@
+{
+    "name": "images/Album",
+    "description": "image album",
+    "type": "image Store",
+    "authors": [
+        {
+            "name": "birma Choudhary",
+            "email": "birmaram786@gmail.com"
+        }
+    ],
+
+    
+    "require": {
+      "laravel/framework": "5.2.*",
+      "laravelcollective/html": "~5.0"
+    }
+}
